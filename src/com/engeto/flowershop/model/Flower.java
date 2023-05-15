@@ -1,3 +1,5 @@
+package com.engeto.flowershop.model;
+
 import java.awt.*;
 
 public class Flower {
