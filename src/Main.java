@@ -3,7 +3,7 @@ import java.sql.*;
 
 public class Main {
     public static void main(String[] args) throws SQLException {
-        Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/Flowershop", "root", "Merinka2007!");
+        Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/Flowershop", "root", "Heslo123");
 
         Statement statement = connection.createStatement();
 
